@@ -1,0 +1,69 @@
+Employee1 >>>
+Name:    Caroline Kim
+Course:  ITSE 2321 Object-Oriented Programming
+Program: Four 
+
+Enter employee ID: 
+1001
+Enter employee's hourly rate: 
+10
+Enter total worked hours of employee: 
+35
+ID number: 		1001
+Pay rate: 		$10.00
+Regular Hours: 		35
+Overtime Hours: 	0
+Total Hours: 		35
+Regular Pay: 		$350.00
+Overtime Pay: 		$0.00
+Gross Pay: 		$350.00
+Deduction: 		$0.00
+Net Pay: 		$325.00
+
+
+
+Employee2 >>>
+Name:    Caroline Kim
+Course:  ITSE 2321 Object-Oriented Programming
+Program: Four 
+
+Enter employee ID: 
+2002
+Enter employee's hourly rate: 
+35.50
+Enter total worked hours of employee: 
+40
+ID number: 		2002
+Pay rate: 		$35.50
+Regular Hours: 		40
+Overtime Hours: 	0
+Total Hours: 		40
+Regular Pay: 		$1420.00
+Overtime Pay: 		$0.00
+Gross Pay: 		$1420.00
+Deduction: 		$149.10
+Net Pay: 		$1245.90
+
+
+
+Employee3 >>>
+Name:    Caroline Kim
+Course:  ITSE 2321 Object-Oriented Programming
+Program: Four 
+
+Enter employee ID: 
+3003
+Enter employee's hourly rate: 
+10.50
+Enter total worked hours of employee: 
+50
+ID number: 		3003
+Pay rate: 		$10.50
+Regular Hours: 		40
+Overtime Hours: 	10
+Total Hours: 		50
+Regular Pay: 		$420.00
+Overtime Pay: 		$157.50
+Gross Pay: 		$577.50
+Deduction: 		$0.00
+Net Pay: 		$552.50
