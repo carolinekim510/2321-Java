@@ -1,0 +1,7 @@
+Name:    Caroline Kim
+Course:  ITSE 2321 Object-Oriented Programming
+Program: Three 
+
+First Name 	 Last Name 	 Yearly Salary 	 Yearly Salary with raise
+John 		 Doe 		 $34500.00 		 $41400.00
+Jane 		 Doe 		 $37809.00 		 $45370.80
