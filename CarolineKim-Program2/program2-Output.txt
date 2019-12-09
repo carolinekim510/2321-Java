@@ -1,0 +1,29 @@
+>> First output
+
+Name:    Caroline Kim
+Course:  ITSE 2321 Object-Oriented Programming
+Program: Two 
+
+Enter total miles driven per day: 25
+Enter cost of gallon of gasoline: 2.25
+Average miles per gallon of gasoline: 24
+Enter parking fees: 2.45
+Enter tolls per day: 2.50
+The daily driving cost is $7.29
+Process finished with exit code 0
+
+
+
+>> Second output
+
+Name:    Caroline Kim
+Course:  ITSE 2321 Object-Oriented Programming
+Program: Two 
+
+Enter total miles driven per day: 40
+Enter cost of gallon of gasoline: 2.25
+Average miles per gallon of gasoline: 30
+Enter parking fees: 5.00
+Enter tolls per day: 1.45
+The daily driving cost is $9.45
+Process finished with exit code 0
