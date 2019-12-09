@@ -1,0 +1,41 @@
+>> 4/12/2018 & 13/01/2000
+Enter the date in format of mm/dd/yyyy: 
+04/12/2018
+April 12, 2018
+Do you like to try again? Y/N: 
+y
+Enter the date in format of mm/dd/yyyy: 
+13/01/2000
+Exception in thread "main" java.lang.IllegalArgumentException: The Month(13) must be between 1 to 12.
+	at Package1.Program11.main(Program11.java:68)
+
+
+>> 2/29/2015
+Enter the date in format of mm/dd/yyyy: 
+02/29/2015
+Exception in thread "main" java.lang.IllegalArgumentException: The day(29) out of range for the specific month and year
+	at Package1.Program11.main(Program11.java:76)
+
+
+>> 1/1/2014 & 9/31/2016Enter the date in format of mm/dd/yyyy: 
+01/01/2014
+January 1, 2014
+Do you like to try again? Y/N: 
+y
+Enter the date in format of mm/dd/yyyy: 
+09/31/2016
+Exception in thread "main" java.lang.IllegalArgumentException: The day (31) out of range for specified month and year
+	at Package1.Program11.main(Program11.java:72)
+
+
+>> Today's date 5/7/2019
+Enter the date in format of mm/dd/yyyy: 
+05/07/2019
+May 7, 2019
+Do you like to try again? Y/N: 
+N
+Name:    Caroline Kim
+Course:  ITSE 2321 Object-Oriented Programming
+Program: Eleven 
+Course:  ITSE 2321 Object-Oriented Programming
+Program: Eleven 
